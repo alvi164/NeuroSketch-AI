@@ -117,7 +117,3 @@ Developed under the **Syad Alvi Research Framework**.
 
 * **Lead System Architect & Algorithm Development:** Syad Mehedi Hasan Alvi
 * **Primary Repository Maintainer:** Alvi (`alvi164`)
-
-```
-
-```
