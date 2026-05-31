@@ -1,11 +1,9 @@
-```markdown
+
 # NeuroSketch AI — Clinical Kinematic Assessment Framework
 
 NeuroSketch AI is an advanced, quantitative kinematic telemetry framework designed for neuro-motor function screening and clinical handwriting analysis. Optimized specifically for high-resolution graphics tablets (such as the Huion HS611), the application records real-time drawing paths to extract clinical biomarkers, including velocity cadence, tremor signatures, and force distribution indices.
 
 This platform bridges a high-performance Spring Boot data repository with an interactive PySide6 graphical interface to classify kinetic indicators associated with bradykinesia, rigidity, and motor micro-corrections.
-
----
 
 ## 💻 Project Architecture & Layout
 
