@@ -7,7 +7,7 @@ This platform bridges a high-performance Spring Boot data repository with an int
 
 ## 💻 Project Architecture & Layout
 
-As illustrated in `Screenshot (8).jpg`, the project is structured as a unified monorepo divided into a decoupled Spring Boot backend and a Python analytics pipeline:
+The project is structured as a unified monorepo divided into a decoupled Spring Boot backend and a Python analytics pipeline:
 
 ```text
 NeuroSketch AI/
