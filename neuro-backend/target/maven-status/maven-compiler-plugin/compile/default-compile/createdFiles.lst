@@ -1,0 +1,4 @@
+com\neurosketch\backend\repository\DrawingSessionRepository.class
+com\neurosketch\backend\model\DrawingSession.class
+com\neurosketch\backend\controller\SessionController.class
+com\neurosketch\backend\BackendApplication.class
